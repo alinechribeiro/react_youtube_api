@@ -1,3 +1,7 @@
+# Project integration with Youtube Api
+
+This project is an integration of Youtube Api and semantic-ui as css framework.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
